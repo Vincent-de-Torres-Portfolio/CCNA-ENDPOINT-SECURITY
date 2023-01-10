@@ -2,21 +2,21 @@
 
 ---
 
-[LAN Security Concepts](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/LAN%20Security%20Concepts%20e2f59c407c61415082c14579532379c3.md)
+[LAN Security Concepts](pages/LAN%20Security%20Concepts%20e2f59c407c61415082c14579532379c3.md)
 
-[Switchport Security Configuration](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/Switchport%20Security%20Configuration%200b97df41fd3e4ee698f0a04522625958.md)
+[Switchport Security Configuration](pages/Switchport%20Security%20Configuration%200b97df41fd3e4ee698f0a04522625958.md)
 
-[Mitigate VLAN Attacks](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/Mitigate%20VLAN%20Attacks%20d4d708d0173844be9aafd7b54da97b02.md)
+[Mitigate VLAN Attacks](pages/Mitigate%20VLAN%20Attacks%20d4d708d0173844be9aafd7b54da97b02.md)
 
-[DHCP Snooping : Mitigate DHCP Attacks](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/DHCP%20Snooping%20Mitigate%20DHCP%20Attacks%20c84616f04c5141e79fd36fee94c86452.md)
+[DHCP Snooping : Mitigate DHCP Attacks](pages/DHCP%20Snooping%20Mitigate%20DHCP%20Attacks%20c84616f04c5141e79fd36fee94c86452.md)
 
-[Dynamic Arp Inspection](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/Dynamic%20Arp%20Inspection%20ad73bbb97c4346178df1171053bc2117.md)
+[Dynamic Arp Inspection](pages/Dynamic%20Arp%20Inspection%20ad73bbb97c4346178df1171053bc2117.md)
 
-[PortFast & BPDU:  Mitigate STP Attacks](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/PortFast%20&%20BPDU%20Mitigate%20STP%20Attacks%2024caff3748174ae3a4d16c17a8020527.md)
+[PortFast & BPDU:  Mitigate STP Attacks](pages/PortFast%20&%20BPDU%20Mitigate%20STP%20Attacks%2024caff3748174ae3a4d16c17a8020527.md)
 
 ## SUMMARY
 
-- [SWITCHPORT SECURITY](NETWORK%20ENDPOINT%20SECURITY%20430108dcb11648399ff6bf44b4650ef3/Switchport%20Security%20Configuration%200b97df41fd3e4ee698f0a04522625958.md)
+- [SWITCHPORT SECURITY](pages/Switchport%20Security%20Configuration%200b97df41fd3e4ee698f0a04522625958.md)
 
 ---
 
